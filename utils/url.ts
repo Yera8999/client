@@ -1,1 +1,1 @@
-export const url = "http://fasfafsa.fun:5000";
+export const url = "http://fasfafsa.fun:8080";
